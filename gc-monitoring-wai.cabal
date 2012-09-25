@@ -60,3 +60,4 @@ Library
                      , wai
                      , aeson
                      , conduit
+                     , resourcet
